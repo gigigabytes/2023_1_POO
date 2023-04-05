@@ -1,4 +1,4 @@
-run = "mcs './ListaUm/ex.cs' -out:main.exe; mono main.exe"
+run = "mcs './Lista02/q1l2.cs' -out:main.exe; mono main.exe"
 
 [nix]
 channel = "stable-22_11"
