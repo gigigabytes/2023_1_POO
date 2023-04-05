@@ -1,0 +1,9 @@
+using System; 
+
+public class Program {
+
+  public static void Main(string[] args) {
+    Console.WriteLine("Nome: Maria Giovanna");
+    Console.WriteLine("Matrícula: 20211014040040");
+  }
+}

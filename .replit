@@ -1,0 +1,4 @@
+run = "mcs './ListaUm/ex.cs' -out:main.exe; mono main.exe"
+
+[nix]
+channel = "stable-22_11"
