@@ -1,3 +1,3 @@
 # 2023_1_POO
 
-Lista 01 de POO - C#
+Repositório para a disciplina de POO - 2023.1
