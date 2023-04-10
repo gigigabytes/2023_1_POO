@@ -1,4 +1,4 @@
-run = "mcs './beecrowd/1018.cs' -out:main.exe; mono main.exe"
+run = "mcs './beecrowd/2377.cs' -out:main.exe; mono main.exe"
 
 [nix]
 channel = "stable-22_11"
