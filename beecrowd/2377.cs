@@ -4,8 +4,19 @@ public class Program {
   public static void Main(string[] args{
   int l, d, k, p;
 
-  int l, d = int.Parse(Console.ReadLine());
-  int k, p = int.Parse(Console.ReadLine());
+  string[] l = (Console.ReadLine().Split());
+  int l1 = int.Parse(l[
+0]);
+    int l2 = int.Parse(l[
+1]);
+
+
+  string[] k = (Console.ReadLine().Split());
+  int k1 = int.Parse(l[
+0]);
+    int k2 = int.Parse(l[
+1]);
+    
 
 pedagio = ((int)l/d);
 
