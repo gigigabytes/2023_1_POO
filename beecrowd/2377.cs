@@ -1,29 +1,28 @@
 using System;
 
 public class Program {
-  public static void Main(string[] args{
-  int l, d, k, p;
-
-  string[] l = (Console.ReadLine().Split());
-  int l1 = int.Parse(l[
+  public static void Main(string[] args) {
+    
+  string[] x = (Console.ReadLine().Split());
+  int l = int.Parse(x[
 0]);
-    int l2 = int.Parse(l[
+    int d = int.Parse(x[
 1]);
 
 
-  string[] k = (Console.ReadLine().Split());
-  int k1 = int.Parse(l[
+  string[] y = (Console.ReadLine().Split());
+  int k = int.Parse(y[
 0]);
-    int k2 = int.Parse(l[
+    int p = int.Parse(y[
 1]);
     
 
-pedagio = ((int)l/d);
+int pedagio = ((int)l/d);
 
-gasolina = ((int)l*k);
-pedagios = (int)pedagio*p);
+int gasolina = ((int)l*k);
+int pedagios = (int)pedagio*p;
 
-total = ((int) gasolina + pedagios);
+int total = ((int) gasolina + pedagios);
 
 Console.WriteLine(total);
   
