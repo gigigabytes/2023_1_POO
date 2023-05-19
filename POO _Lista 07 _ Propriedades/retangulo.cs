@@ -19,7 +19,7 @@ public double Area {
 public double Diagonal {
   get { return d = Math.Pow() }
 }
-// Falta colocar a formula  
+// Falta colocar a formula - raiz quadrada da soma dos lados ao quadrado  
 }
 
 class MainClass {

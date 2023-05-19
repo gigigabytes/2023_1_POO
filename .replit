@@ -1,4 +1,4 @@
-run = "mcs './Exercícios/ExAula1505.cs' -out:main.exe; mono main.exe"
+run = "mcs './PrimeiraAvaliacao/domino.cs' -out:main.exe; mono main.exe"
 
 [nix]
 channel = "stable-22_11"
